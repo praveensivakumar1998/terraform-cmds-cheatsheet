@@ -1,5 +1,6 @@
 # terraform-cmds-cheatsheet
 
+![image](https://github.com/user-attachments/assets/6302c77d-181d-4550-af15-a1bac63ef3a2)
 
 
 ### Here are commonly used Terraform commands along with their explanations:
