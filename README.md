@@ -1,8 +1,8 @@
 # terraform-cmds-cheatsheet
-complete terraform commands with defination
 
 
-Here are commonly used Terraform commands along with their explanations:
+
+### Here are commonly used Terraform commands along with their explanations:
 
 ## 1. terraform init
 
